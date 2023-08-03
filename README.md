@@ -43,15 +43,8 @@
 **📫 How to Reach me:**
 
    
- 
-
-
-
-
-
-
-
-
+[My Zhihu](https://www.zhihu.com/people/hua-hu-54-53)
+ranchizhao@gmail.com
 
 
 #### Thanks for visiting :heart:

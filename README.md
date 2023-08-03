@@ -33,8 +33,6 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-[![RanchiZhao's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RanchiZhao&theme=github-compact)](https://github.com/RanchiZhao/github-readme-activity-graph)
-
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![RanchiZhao's github stats](https://github-readme-stats.vercel.app/api?username=RanchiZhao&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RanchiZhao&theme=radical&layout=compact) |

@@ -58,6 +58,10 @@ Email me : ranchizhao@gmail.com
 
 ## Star History
 
+Considering that I have no stars, put CPM-Bee here temporarily
+
+<\br>
+
 [![Star History Chart](https://api.star-history.com/svg?repos=OpenBMB/CPM-Bee&type=Date)](https://star-history.com/#OpenBMB/CPM-Bee&Date)
 
 

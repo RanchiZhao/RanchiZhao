@@ -55,7 +55,6 @@ Email me : ranchizhao@gmail.com
 
 <p align="left"> 
 <img src="https://profile-counter.glitch.me/RanchiZhao/count.svg">  
-OpenBMB/CPM-Bee
 
 ## Star History
 

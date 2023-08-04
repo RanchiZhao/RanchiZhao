@@ -43,6 +43,7 @@
 **📫 How to Reach me:**
 
 ---
+
 [My Zhihu](https://www.zhihu.com/people/hua-hu-54-53)
 
 ---
@@ -52,7 +53,7 @@ Email me : ranchizhao@gmail.com
 ---
 #### Thanks for visiting :heart:
 
-<p align="center"> 
+<p align="left"> 
 <img src="https://profile-counter.glitch.me/RanchiZhao/count.svg">  
 OpenBMB/CPM-Bee
 

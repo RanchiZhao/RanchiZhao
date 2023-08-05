@@ -13,19 +13,22 @@
 <!--   my-header-img -->
 ![](./src/header_.png)
 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-<img src="./src/party_blob.gif" width="30"/>
-<img src="./src/blob-dance.gif" width="30"/>
-<img src="./src/blob_hype.gif" width="30"/>
-<img src="./src/bongo_blob.gif" width="30"/>
-<img src="./src/meow_adorable.gif" width="30"/>
-<img src="./src/meow_attention.gif" width="30"/>
-<img src="./src/meow_bongotap.gif" width="30"/>
-<img src="./src/meow_code.gif" width="30"/>
-<img src="./src/meow_fat.gif" width="30"/>
-<img src="./src/meow_heart_bongo.gif" width="30"/>
-<img src="./src/meow_noddies.gif" width="30"/>
-<img src="./src/meow_party.gif" width="30"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  <img src="./src/party_blob.gif" width="30"/>
+  <img src="./src/blob-dance.gif" width="30"/>
+  <img src="./src/blob_hype.gif" width="30"/>
+  <img src="./src/bongo_blob.gif" width="30"/>
+  <img src="./src/meow_adorable.gif" width="30"/>
+  <img src="./src/meow_attention.gif" width="30"/>
+  <img src="./src/meow_bongotap.gif" width="30"/>
+  <img src="./src/meow_code.gif" width="30"/>
+  <img src="./src/meow_fat.gif" width="30"/>
+  <img src="./src/meow_heart_bongo.gif" width="30"/>
+  <img src="./src/meow_noddies.gif" width="30"/>
+  <img src="./src/meow_party.gif" width="30"/>
+</div>
+
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 

@@ -76,7 +76,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanchiZhao" alt="GitHub Readme Streak Stats">
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RanchiZhao)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RanchiZhao&row=2&column=3" alt="trophy" />
+  </a>
+</div>
 
 **📫 How to Reach me:**
 

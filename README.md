@@ -13,24 +13,44 @@
 <!--   my-header-img -->
 ![](./src/header_.png)
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  <img src="./src/party_blob.gif" width="30"/>
-  <img src="./src/blob-dance.gif" width="30"/>
-  <img src="./src/blob_hype.gif" width="30"/>
-  <img src="./src/bongo_blob.gif" width="30"/>
-  <img src="./src/meow_adorable.gif" width="30"/>
+  <img src="./src/meow_adorable.png" width="30"/>
   <img src="./src/meow_attention.gif" width="30"/>
+  <img src="./src/meow_adorable_pink.png" width="30"/>
   <img src="./src/meow_bongotap.gif" width="30"/>
+  <img src="./src/meow_amongus.png" width="30"/>
   <img src="./src/meow_code.gif" width="30"/>
+  <img src="./src/meow_amused.png" width="30"/>
   <img src="./src/meow_fat.gif" width="30"/>
+  <img src="./src/meow_angry_red.png" width="30"/>
   <img src="./src/meow_heart_bongo.gif" width="30"/>
+  <img src="./src/meow_bi.png" width="30"/>
   <img src="./src/meow_noddies.gif" width="30"/>
+  <img src="./src/meow_blue_coffee.png" width="30"/>
   <img src="./src/meow_party.gif" width="30"/>
+  <img src="./src/meow_box-colors.gif" width="30"/>
+  <img src="./src/meow_comfy_coffee.png" width="30"/>
+  <img src="./src/party_blob.gif" width="30"/>
+  <img src="./src/meow_comfy-eeek.png" width="30"/>
+  <img src="./src/blob-dance.gif" width="30"/>
+  <img src="./src/meow_comfy-hyperthink.png" width="30"/>
+  <img src="./src/blob-hype.gif" width="30"/>
+  <img src="./src/meow_comfy-police.png" width="30"/>
+  <img src="./src/meow_comfyartist.gif" width="30"/>
+  <img src="./src/meow_comfy-santa-xmas.png" width="30"/>
+  <img src="./src/meow_comfy-think-glare.png" width="30"/>
+  <img src="./src/meow_comfy-yes.png" width="30"/>
+  <img src="./src/meow_comfyaww.png" width="30"/>
+  <img src="./src/meow_comfybelp.png" width="30"/>
+  <img src="./src/meow_comfyblush.png" width="30"/>
+  <img src="./src/meow_comfydonut.png" width="30"/>
+  <img src="./src/meow_comfyevil.png" width="30"/>
+  <img src="./src/meow_comfynomcomfy.png" width="30"/>
+  <img src="./src/meow_comfypink.png" width="30"/>
+  <img src="./src/meow_comfyartist.gif" width="30"/>
 </div>
 
-
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 

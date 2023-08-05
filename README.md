@@ -39,16 +39,6 @@
   <img src="./src/meow_comfy-police.png" width="30"/>
   <img src="./src/meow_comfyartist.gif" width="30"/>
   <img src="./src/meow_comfy-santa-xmas.png" width="30"/>
-  <img src="./src/meow_comfy-think-glare.png" width="30"/>
-  <img src="./src/meow_comfy-yes.png" width="30"/>
-  <img src="./src/meow_comfyaww.png" width="30"/>
-  <img src="./src/meow_comfybelp.png" width="30"/>
-  <img src="./src/meow_comfyblush.png" width="30"/>
-  <img src="./src/meow_comfydonut.png" width="30"/>
-  <img src="./src/meow_comfyevil.png" width="30"/>
-  <img src="./src/meow_comfynomcomfy.png" width="30"/>
-  <img src="./src/meow_comfypink.png" width="30"/>
-  <img src="./src/meow_comfyartist.gif" width="30"/>
 </div>
 
 

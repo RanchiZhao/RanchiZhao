@@ -16,7 +16,12 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ranchi+Zhao;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Dabble+in+NLP+and+LLM;)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Ranchi+Zhao;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Dabble+in+NLP+and+LLM;" alt="Typing SVG">
+  </a>
+</p>
 
 
 <!--   my-skils -->
@@ -33,7 +38,7 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-| .                                                                                                                                       | .                                                                                                                         |
+|Status                                                                                                                                       | Languages                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![RanchiZhao's github stats](https://github-readme-stats.vercel.app/api?username=RanchiZhao&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RanchiZhao&theme=radical&layout=compact) |
 

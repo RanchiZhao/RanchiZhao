@@ -12,6 +12,9 @@
 
 <!--   my-header-img -->
 ![](./src/header_.png)
+
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 
@@ -40,12 +43,13 @@
 ### 📈 GitHub Activity Graph:
 |Status                                                                                                                                       | Languages                                                                                                                       |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![RanchiZhao's github stats](https://github-readme-stats.vercel.app/api?username=RanchiZhao&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RanchiZhao&theme=radical&layout=compact) |
+| ![RanchiZhao's github stats](https://github-readme-stats.vercel.app/api?username=RanchiZhao&show_icons=true&theme=dracula&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RanchiZhao&theme=radical&layout=compact) |
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanchiZhao" alt="GitHub Readme Streak Stats">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 **📫 How to Reach me:**
 
@@ -68,7 +72,6 @@ Email me : ranchizhao@gmail.com
 Considering that I have no stars, put CPM-Bee here temporarily
 
 [![Star History Chart](https://api.star-history.com/svg?repos=OpenBMB/CPM-Bee&type=Date)](https://star-history.com/#OpenBMB/CPM-Bee&Date)
-
 
 
 ### Profile Views
